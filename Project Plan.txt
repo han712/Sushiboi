@@ -1,0 +1,10 @@
+#Project plan
+
+Struktur 
+- HTML 5
+- CSS
+- Javascript
+  * ES 6
+  * Vue js
+  * react
+  
